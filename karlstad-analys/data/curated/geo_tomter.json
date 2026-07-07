@@ -1,0 +1,1871 @@
+﻿{
+    "id":  "geo_tomter",
+    "titel":  "Lediga tomter (polygoner)",
+    "beskrivning":  "Kommunens lediga småhustomter med areal och länk.",
+    "enhet":  "tomter",
+    "kalla":  {
+                  "myndighet":  "Karlstads kommun (GeoServer)",
+                  "tabell":  "karlstad_lediga_tomter",
+                  "licens":  "Öppna data",
+                  "hamtad":  "2026-07-06T23:57:50",
+                  "url":  "https://gi.karlstad.se/geoserver/oppnadata/wfs?service=WFS\u0026version=2.0.0\u0026request=GetFeature\u0026typeNames=oppnadata:karlstad_lediga_tomter\u0026outputFormat=application/json\u0026srsName=EPSG:4326"
+              },
+    "innehall":  {
+                     "antal":  42,
+                     "geojson":  {
+                                     "type":  "FeatureCollection",
+                                     "features":  [
+                                                      {
+                                                          "type":  "Feature",
+                                                          "properties":  {
+                                                                             "type":  "residential",
+                                                                             "area":  877.22,
+                                                                             "url":  "https://karlstad.se/bygga-bo-och-leva-hallbart/bostader-och-boendemiljo/villatomter"
+                                                                         },
+                                                          "geometry":  {
+                                                                           "type":  "Polygon",
+                                                                           "coordinates":  [
+                                                                                               [
+                                                                                                   [
+                                                                                                       13.7,
+                                                                                                       59.6
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.7,
+                                                                                                       59.6
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.7,
+                                                                                                       59.6
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.7,
+                                                                                                       59.6
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.7,
+                                                                                                       59.6
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.7,
+                                                                                                       59.6
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.7,
+                                                                                                       59.6
+                                                                                                   ]
+                                                                                               ]
+                                                                                           ]
+                                                                       }
+                                                      },
+                                                      {
+                                                          "type":  "Feature",
+                                                          "properties":  {
+                                                                             "type":  "residential",
+                                                                             "area":  891,
+                                                                             "url":  "https://karlstad.se/bygga-bo-och-leva-hallbart/bostader-och-boendemiljo/villatomter"
+                                                                         },
+                                                          "geometry":  {
+                                                                           "type":  "Polygon",
+                                                                           "coordinates":  [
+                                                                                               [
+                                                                                                   [
+                                                                                                       13.7,
+                                                                                                       59.6
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.7,
+                                                                                                       59.6
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.7,
+                                                                                                       59.6
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.7,
+                                                                                                       59.6
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.7,
+                                                                                                       59.6
+                                                                                                   ]
+                                                                                               ]
+                                                                                           ]
+                                                                       }
+                                                      },
+                                                      {
+                                                          "type":  "Feature",
+                                                          "properties":  {
+                                                                             "type":  "residential",
+                                                                             "area":  1181.16,
+                                                                             "url":  "https://karlstad.se/bygga-bo-och-leva-hallbart/bostader-och-boendemiljo/villatomter"
+                                                                         },
+                                                          "geometry":  {
+                                                                           "type":  "Polygon",
+                                                                           "coordinates":  [
+                                                                                               [
+                                                                                                   [
+                                                                                                       13.22,
+                                                                                                       59.45
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.22,
+                                                                                                       59.45
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.22,
+                                                                                                       59.45
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.22,
+                                                                                                       59.45
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.22,
+                                                                                                       59.45
+                                                                                                   ]
+                                                                                               ]
+                                                                                           ]
+                                                                       }
+                                                      },
+                                                      {
+                                                          "type":  "Feature",
+                                                          "properties":  {
+                                                                             "type":  "residential",
+                                                                             "area":  1057.45,
+                                                                             "url":  "https://karlstad.se/bygga-bo-och-leva-hallbart/bostader-och-boendemiljo/villatomter"
+                                                                         },
+                                                          "geometry":  {
+                                                                           "type":  "Polygon",
+                                                                           "coordinates":  [
+                                                                                               [
+                                                                                                   [
+                                                                                                       13.22,
+                                                                                                       59.44
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.22,
+                                                                                                       59.45
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.22,
+                                                                                                       59.45
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.22,
+                                                                                                       59.44
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.22,
+                                                                                                       59.44
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.22,
+                                                                                                       59.44
+                                                                                                   ]
+                                                                                               ]
+                                                                                           ]
+                                                                       }
+                                                      },
+                                                      {
+                                                          "type":  "Feature",
+                                                          "properties":  {
+                                                                             "type":  "residential",
+                                                                             "area":  900.47,
+                                                                             "url":  "https://karlstad.se/bygga-bo-och-leva-hallbart/bostader-och-boendemiljo/villatomter"
+                                                                         },
+                                                          "geometry":  {
+                                                                           "type":  "Polygon",
+                                                                           "coordinates":  [
+                                                                                               [
+                                                                                                   [
+                                                                                                       13.7,
+                                                                                                       59.6
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.7,
+                                                                                                       59.6
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.7,
+                                                                                                       59.6
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.7,
+                                                                                                       59.6
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.7,
+                                                                                                       59.6
+                                                                                                   ]
+                                                                                               ]
+                                                                                           ]
+                                                                       }
+                                                      },
+                                                      {
+                                                          "type":  "Feature",
+                                                          "properties":  {
+                                                                             "type":  "residential",
+                                                                             "area":  1199.15,
+                                                                             "url":  "https://karlstad.se/bygga-bo-och-leva-hallbart/bostader-och-boendemiljo/villatomter"
+                                                                         },
+                                                          "geometry":  {
+                                                                           "type":  "Polygon",
+                                                                           "coordinates":  [
+                                                                                               [
+                                                                                                   [
+                                                                                                       13.22,
+                                                                                                       59.44
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.22,
+                                                                                                       59.45
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.22,
+                                                                                                       59.44
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.22,
+                                                                                                       59.44
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.22,
+                                                                                                       59.44
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.22,
+                                                                                                       59.44
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.22,
+                                                                                                       59.44
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.22,
+                                                                                                       59.44
+                                                                                                   ]
+                                                                                               ]
+                                                                                           ]
+                                                                       }
+                                                      },
+                                                      {
+                                                          "type":  "Feature",
+                                                          "properties":  {
+                                                                             "type":  "residential",
+                                                                             "area":  951.45,
+                                                                             "url":  "https://karlstad.se/bygga-bo-och-leva-hallbart/bostader-och-boendemiljo/villatomter"
+                                                                         },
+                                                          "geometry":  {
+                                                                           "type":  "Polygon",
+                                                                           "coordinates":  [
+                                                                                               [
+                                                                                                   [
+                                                                                                       13.18,
+                                                                                                       59.38
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.18,
+                                                                                                       59.38
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.18,
+                                                                                                       59.38
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.18,
+                                                                                                       59.38
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.18,
+                                                                                                       59.38
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.18,
+                                                                                                       59.38
+                                                                                                   ]
+                                                                                               ]
+                                                                                           ]
+                                                                       }
+                                                      },
+                                                      {
+                                                          "type":  "Feature",
+                                                          "properties":  {
+                                                                             "type":  "residential",
+                                                                             "area":  1209.87,
+                                                                             "url":  "https://karlstad.se/bygga-bo-och-leva-hallbart/bostader-och-boendemiljo/villatomter"
+                                                                         },
+                                                          "geometry":  {
+                                                                           "type":  "Polygon",
+                                                                           "coordinates":  [
+                                                                                               [
+                                                                                                   [
+                                                                                                       13.18,
+                                                                                                       59.38
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.18,
+                                                                                                       59.38
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.18,
+                                                                                                       59.38
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.18,
+                                                                                                       59.38
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.18,
+                                                                                                       59.38
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.18,
+                                                                                                       59.38
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.18,
+                                                                                                       59.38
+                                                                                                   ]
+                                                                                               ]
+                                                                                           ]
+                                                                       }
+                                                      },
+                                                      {
+                                                          "type":  "Feature",
+                                                          "properties":  {
+                                                                             "type":  "residential",
+                                                                             "area":  1115.66,
+                                                                             "url":  "https://karlstad.se/bygga-bo-och-leva-hallbart/bostader-och-boendemiljo/villatomter"
+                                                                         },
+                                                          "geometry":  {
+                                                                           "type":  "Polygon",
+                                                                           "coordinates":  [
+                                                                                               [
+                                                                                                   [
+                                                                                                       13.22,
+                                                                                                       59.44
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.22,
+                                                                                                       59.44
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.22,
+                                                                                                       59.44
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.22,
+                                                                                                       59.44
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.22,
+                                                                                                       59.44
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.22,
+                                                                                                       59.44
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.22,
+                                                                                                       59.44
+                                                                                                   ]
+                                                                                               ]
+                                                                                           ]
+                                                                       }
+                                                      },
+                                                      {
+                                                          "type":  "Feature",
+                                                          "properties":  {
+                                                                             "type":  "residential",
+                                                                             "area":  985.05,
+                                                                             "url":  "https://karlstad.se/bygga-bo-och-leva-hallbart/bostader-och-boendemiljo/villatomter"
+                                                                         },
+                                                          "geometry":  {
+                                                                           "type":  "Polygon",
+                                                                           "coordinates":  [
+                                                                                               [
+                                                                                                   [
+                                                                                                       13.18,
+                                                                                                       59.38
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.18,
+                                                                                                       59.38
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.18,
+                                                                                                       59.38
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.18,
+                                                                                                       59.38
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.18,
+                                                                                                       59.38
+                                                                                                   ]
+                                                                                               ]
+                                                                                           ]
+                                                                       }
+                                                      },
+                                                      {
+                                                          "type":  "Feature",
+                                                          "properties":  {
+                                                                             "type":  "residential",
+                                                                             "area":  1543.29,
+                                                                             "url":  "https://karlstad.se/bygga-bo-och-leva-hallbart/bostader-och-boendemiljo/villatomter"
+                                                                         },
+                                                          "geometry":  {
+                                                                           "type":  "Polygon",
+                                                                           "coordinates":  [
+                                                                                               [
+                                                                                                   [
+                                                                                                       13.7,
+                                                                                                       59.6
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.7,
+                                                                                                       59.6
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.7,
+                                                                                                       59.6
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.7,
+                                                                                                       59.6
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.7,
+                                                                                                       59.6
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.7,
+                                                                                                       59.6
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.7,
+                                                                                                       59.6
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.7,
+                                                                                                       59.6
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.7,
+                                                                                                       59.6
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.7,
+                                                                                                       59.6
+                                                                                                   ]
+                                                                                               ]
+                                                                                           ]
+                                                                       }
+                                                      },
+                                                      {
+                                                          "type":  "Feature",
+                                                          "properties":  {
+                                                                             "type":  "residential",
+                                                                             "area":  1369.87,
+                                                                             "url":  "https://karlstad.se/bygga-bo-och-leva-hallbart/bostader-och-boendemiljo/villatomter"
+                                                                         },
+                                                          "geometry":  {
+                                                                           "type":  "Polygon",
+                                                                           "coordinates":  [
+                                                                                               [
+                                                                                                   [
+                                                                                                       13.7,
+                                                                                                       59.6
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.7,
+                                                                                                       59.6
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.7,
+                                                                                                       59.6
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.7,
+                                                                                                       59.6
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.7,
+                                                                                                       59.6
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.7,
+                                                                                                       59.6
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.7,
+                                                                                                       59.6
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.7,
+                                                                                                       59.6
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.7,
+                                                                                                       59.6
+                                                                                                   ]
+                                                                                               ]
+                                                                                           ]
+                                                                       }
+                                                      },
+                                                      {
+                                                          "type":  "Feature",
+                                                          "properties":  {
+                                                                             "type":  "residential",
+                                                                             "area":  1149.98,
+                                                                             "url":  "https://karlstad.se/bygga-bo-och-leva-hallbart/bostader-och-boendemiljo/villatomter"
+                                                                         },
+                                                          "geometry":  {
+                                                                           "type":  "Polygon",
+                                                                           "coordinates":  [
+                                                                                               [
+                                                                                                   [
+                                                                                                       13.7,
+                                                                                                       59.59
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.7,
+                                                                                                       59.59
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.7,
+                                                                                                       59.59
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.7,
+                                                                                                       59.59
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.7,
+                                                                                                       59.59
+                                                                                                   ]
+                                                                                               ]
+                                                                                           ]
+                                                                       }
+                                                      },
+                                                      {
+                                                          "type":  "Feature",
+                                                          "properties":  {
+                                                                             "type":  "residential",
+                                                                             "area":  1344.83,
+                                                                             "url":  "https://karlstad.se/bygga-bo-och-leva-hallbart/bostader-och-boendemiljo/villatomter"
+                                                                         },
+                                                          "geometry":  {
+                                                                           "type":  "Polygon",
+                                                                           "coordinates":  [
+                                                                                               [
+                                                                                                   [
+                                                                                                       13.7,
+                                                                                                       59.6
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.7,
+                                                                                                       59.6
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.7,
+                                                                                                       59.6
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.7,
+                                                                                                       59.6
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.7,
+                                                                                                       59.6
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.7,
+                                                                                                       59.6
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.7,
+                                                                                                       59.6
+                                                                                                   ]
+                                                                                               ]
+                                                                                           ]
+                                                                       }
+                                                      },
+                                                      {
+                                                          "type":  "Feature",
+                                                          "properties":  {
+                                                                             "type":  "residential",
+                                                                             "area":  1307.16,
+                                                                             "url":  "https://karlstad.se/bygga-bo-och-leva-hallbart/bostader-och-boendemiljo/villatomter"
+                                                                         },
+                                                          "geometry":  {
+                                                                           "type":  "Polygon",
+                                                                           "coordinates":  [
+                                                                                               [
+                                                                                                   [
+                                                                                                       13.22,
+                                                                                                       59.45
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.22,
+                                                                                                       59.45
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.22,
+                                                                                                       59.45
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.22,
+                                                                                                       59.45
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.22,
+                                                                                                       59.45
+                                                                                                   ]
+                                                                                               ]
+                                                                                           ]
+                                                                       }
+                                                      },
+                                                      {
+                                                          "type":  "Feature",
+                                                          "properties":  {
+                                                                             "type":  "residential",
+                                                                             "area":  523.01,
+                                                                             "url":  "https://karlstad.se/bygga-bo-och-leva-hallbart/bostader-och-boendemiljo/villatomter"
+                                                                         },
+                                                          "geometry":  {
+                                                                           "type":  "Polygon",
+                                                                           "coordinates":  [
+                                                                                               [
+                                                                                                   [
+                                                                                                       13.56,
+                                                                                                       59.4
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.56,
+                                                                                                       59.4
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.56,
+                                                                                                       59.4
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.56,
+                                                                                                       59.4
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.56,
+                                                                                                       59.4
+                                                                                                   ]
+                                                                                               ]
+                                                                                           ]
+                                                                       }
+                                                      },
+                                                      {
+                                                          "type":  "Feature",
+                                                          "properties":  {
+                                                                             "type":  "residential",
+                                                                             "area":  522.81,
+                                                                             "url":  "https://karlstad.se/bygga-bo-och-leva-hallbart/bostader-och-boendemiljo/villatomter"
+                                                                         },
+                                                          "geometry":  {
+                                                                           "type":  "Polygon",
+                                                                           "coordinates":  [
+                                                                                               [
+                                                                                                   [
+                                                                                                       13.56,
+                                                                                                       59.4
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.56,
+                                                                                                       59.4
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.56,
+                                                                                                       59.4
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.56,
+                                                                                                       59.4
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.56,
+                                                                                                       59.4
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.56,
+                                                                                                       59.4
+                                                                                                   ]
+                                                                                               ]
+                                                                                           ]
+                                                                       }
+                                                      },
+                                                      {
+                                                          "type":  "Feature",
+                                                          "properties":  {
+                                                                             "type":  "residential",
+                                                                             "area":  519.3,
+                                                                             "url":  "https://karlstad.se/bygga-bo-och-leva-hallbart/bostader-och-boendemiljo/villatomter"
+                                                                         },
+                                                          "geometry":  {
+                                                                           "type":  "Polygon",
+                                                                           "coordinates":  [
+                                                                                               [
+                                                                                                   [
+                                                                                                       13.56,
+                                                                                                       59.4
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.56,
+                                                                                                       59.4
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.56,
+                                                                                                       59.4
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.56,
+                                                                                                       59.4
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.56,
+                                                                                                       59.4
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.56,
+                                                                                                       59.4
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.56,
+                                                                                                       59.4
+                                                                                                   ]
+                                                                                               ]
+                                                                                           ]
+                                                                       }
+                                                      },
+                                                      {
+                                                          "type":  "Feature",
+                                                          "properties":  {
+                                                                             "type":  "residential",
+                                                                             "area":  570.97,
+                                                                             "url":  "https://karlstad.se/bygga-bo-och-leva-hallbart/bostader-och-boendemiljo/villatomter"
+                                                                         },
+                                                          "geometry":  {
+                                                                           "type":  "Polygon",
+                                                                           "coordinates":  [
+                                                                                               [
+                                                                                                   [
+                                                                                                       13.56,
+                                                                                                       59.4
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.56,
+                                                                                                       59.4
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.56,
+                                                                                                       59.4
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.56,
+                                                                                                       59.4
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.56,
+                                                                                                       59.4
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.56,
+                                                                                                       59.4
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.56,
+                                                                                                       59.4
+                                                                                                   ]
+                                                                                               ]
+                                                                                           ]
+                                                                       }
+                                                      },
+                                                      {
+                                                          "type":  "Feature",
+                                                          "properties":  {
+                                                                             "type":  "residential",
+                                                                             "area":  572.96,
+                                                                             "url":  "https://karlstad.se/bygga-bo-och-leva-hallbart/bostader-och-boendemiljo/villatomter"
+                                                                         },
+                                                          "geometry":  {
+                                                                           "type":  "Polygon",
+                                                                           "coordinates":  [
+                                                                                               [
+                                                                                                   [
+                                                                                                       13.56,
+                                                                                                       59.4
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.56,
+                                                                                                       59.4
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.56,
+                                                                                                       59.4
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.56,
+                                                                                                       59.4
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.56,
+                                                                                                       59.4
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.56,
+                                                                                                       59.4
+                                                                                                   ]
+                                                                                               ]
+                                                                                           ]
+                                                                       }
+                                                      },
+                                                      {
+                                                          "type":  "Feature",
+                                                          "properties":  {
+                                                                             "type":  "residential",
+                                                                             "area":  571.58,
+                                                                             "url":  "https://karlstad.se/bygga-bo-och-leva-hallbart/bostader-och-boendemiljo/villatomter"
+                                                                         },
+                                                          "geometry":  {
+                                                                           "type":  "Polygon",
+                                                                           "coordinates":  [
+                                                                                               [
+                                                                                                   [
+                                                                                                       13.56,
+                                                                                                       59.4
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.56,
+                                                                                                       59.4
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.56,
+                                                                                                       59.4
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.56,
+                                                                                                       59.4
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.56,
+                                                                                                       59.4
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.56,
+                                                                                                       59.4
+                                                                                                   ]
+                                                                                               ]
+                                                                                           ]
+                                                                       }
+                                                      },
+                                                      {
+                                                          "type":  "Feature",
+                                                          "properties":  {
+                                                                             "type":  "residential",
+                                                                             "area":  583.01,
+                                                                             "url":  "https://karlstad.se/bygga-bo-och-leva-hallbart/bostader-och-boendemiljo/villatomter"
+                                                                         },
+                                                          "geometry":  {
+                                                                           "type":  "Polygon",
+                                                                           "coordinates":  [
+                                                                                               [
+                                                                                                   [
+                                                                                                       13.56,
+                                                                                                       59.4
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.56,
+                                                                                                       59.4
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.56,
+                                                                                                       59.4
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.56,
+                                                                                                       59.4
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.56,
+                                                                                                       59.4
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.56,
+                                                                                                       59.4
+                                                                                                   ]
+                                                                                               ]
+                                                                                           ]
+                                                                       }
+                                                      },
+                                                      {
+                                                          "type":  "Feature",
+                                                          "properties":  {
+                                                                             "type":  "residential",
+                                                                             "area":  573.97,
+                                                                             "url":  "https://karlstad.se/bygga-bo-och-leva-hallbart/bostader-och-boendemiljo/villatomter"
+                                                                         },
+                                                          "geometry":  {
+                                                                           "type":  "Polygon",
+                                                                           "coordinates":  [
+                                                                                               [
+                                                                                                   [
+                                                                                                       13.56,
+                                                                                                       59.4
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.56,
+                                                                                                       59.4
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.56,
+                                                                                                       59.4
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.56,
+                                                                                                       59.4
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.56,
+                                                                                                       59.4
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.56,
+                                                                                                       59.4
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.56,
+                                                                                                       59.4
+                                                                                                   ]
+                                                                                               ]
+                                                                                           ]
+                                                                       }
+                                                      },
+                                                      {
+                                                          "type":  "Feature",
+                                                          "properties":  {
+                                                                             "type":  "residential",
+                                                                             "area":  1064.42,
+                                                                             "url":  "https://karlstad.se/bygga-bo-och-leva-hallbart/bostader-och-boendemiljo/villatomter"
+                                                                         },
+                                                          "geometry":  {
+                                                                           "type":  "Polygon",
+                                                                           "coordinates":  [
+                                                                                               [
+                                                                                                   [
+                                                                                                       13.43,
+                                                                                                       59.35
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.43,
+                                                                                                       59.35
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.43,
+                                                                                                       59.35
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.43,
+                                                                                                       59.35
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.43,
+                                                                                                       59.35
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.43,
+                                                                                                       59.35
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.43,
+                                                                                                       59.35
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.43,
+                                                                                                       59.35
+                                                                                                   ]
+                                                                                               ]
+                                                                                           ]
+                                                                       }
+                                                      },
+                                                      {
+                                                          "type":  "Feature",
+                                                          "properties":  {
+                                                                             "type":  "residential",
+                                                                             "area":  1283.03,
+                                                                             "url":  "https://karlstad.se/bygga-bo-och-leva-hallbart/bostader-och-boendemiljo/villatomter"
+                                                                         },
+                                                          "geometry":  {
+                                                                           "type":  "Polygon",
+                                                                           "coordinates":  [
+                                                                                               [
+                                                                                                   [
+                                                                                                       13.43,
+                                                                                                       59.35
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.43,
+                                                                                                       59.35
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.43,
+                                                                                                       59.35
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.43,
+                                                                                                       59.35
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.43,
+                                                                                                       59.35
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.43,
+                                                                                                       59.35
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.43,
+                                                                                                       59.35
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.43,
+                                                                                                       59.35
+                                                                                                   ]
+                                                                                               ]
+                                                                                           ]
+                                                                       }
+                                                      },
+                                                      {
+                                                          "type":  "Feature",
+                                                          "properties":  {
+                                                                             "type":  "residential",
+                                                                             "area":  1193.49,
+                                                                             "url":  "https://karlstad.se/bygga-bo-och-leva-hallbart/bostader-och-boendemiljo/villatomter"
+                                                                         },
+                                                          "geometry":  {
+                                                                           "type":  "Polygon",
+                                                                           "coordinates":  [
+                                                                                               [
+                                                                                                   [
+                                                                                                       13.43,
+                                                                                                       59.35
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.43,
+                                                                                                       59.35
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.43,
+                                                                                                       59.35
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.43,
+                                                                                                       59.35
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.43,
+                                                                                                       59.35
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.43,
+                                                                                                       59.35
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.43,
+                                                                                                       59.35
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.43,
+                                                                                                       59.35
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.43,
+                                                                                                       59.35
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.43,
+                                                                                                       59.35
+                                                                                                   ]
+                                                                                               ]
+                                                                                           ]
+                                                                       }
+                                                      },
+                                                      {
+                                                          "type":  "Feature",
+                                                          "properties":  {
+                                                                             "type":  "residential",
+                                                                             "area":  1434.67,
+                                                                             "url":  "https://karlstad.se/bygga-bo-och-leva-hallbart/bostader-och-boendemiljo/villatomter"
+                                                                         },
+                                                          "geometry":  {
+                                                                           "type":  "Polygon",
+                                                                           "coordinates":  [
+                                                                                               [
+                                                                                                   [
+                                                                                                       13.43,
+                                                                                                       59.35
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.43,
+                                                                                                       59.35
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.43,
+                                                                                                       59.35
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.43,
+                                                                                                       59.35
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.43,
+                                                                                                       59.35
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.43,
+                                                                                                       59.35
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.43,
+                                                                                                       59.35
+                                                                                                   ]
+                                                                                               ]
+                                                                                           ]
+                                                                       }
+                                                      },
+                                                      {
+                                                          "type":  "Feature",
+                                                          "properties":  {
+                                                                             "type":  "residential",
+                                                                             "area":  1097.34,
+                                                                             "url":  "https://karlstad.se/bygga-bo-och-leva-hallbart/bostader-och-boendemiljo/villatomter"
+                                                                         },
+                                                          "geometry":  {
+                                                                           "type":  "Polygon",
+                                                                           "coordinates":  [
+                                                                                               [
+                                                                                                   [
+                                                                                                       13.43,
+                                                                                                       59.35
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.43,
+                                                                                                       59.35
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.43,
+                                                                                                       59.35
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.43,
+                                                                                                       59.35
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.43,
+                                                                                                       59.35
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.43,
+                                                                                                       59.35
+                                                                                                   ]
+                                                                                               ]
+                                                                                           ]
+                                                                       }
+                                                      },
+                                                      {
+                                                          "type":  "Feature",
+                                                          "properties":  {
+                                                                             "type":  "residential",
+                                                                             "area":  1033.65,
+                                                                             "url":  "https://karlstad.se/bygga-bo-och-leva-hallbart/bostader-och-boendemiljo/villatomter"
+                                                                         },
+                                                          "geometry":  {
+                                                                           "type":  "Polygon",
+                                                                           "coordinates":  [
+                                                                                               [
+                                                                                                   [
+                                                                                                       13.43,
+                                                                                                       59.35
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.43,
+                                                                                                       59.35
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.43,
+                                                                                                       59.35
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.43,
+                                                                                                       59.35
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.43,
+                                                                                                       59.35
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.43,
+                                                                                                       59.35
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.43,
+                                                                                                       59.35
+                                                                                                   ]
+                                                                                               ]
+                                                                                           ]
+                                                                       }
+                                                      },
+                                                      {
+                                                          "type":  "Feature",
+                                                          "properties":  {
+                                                                             "type":  "residential",
+                                                                             "area":  1105.59,
+                                                                             "url":  "https://karlstad.se/bygga-bo-och-leva-hallbart/bostader-och-boendemiljo/villatomter"
+                                                                         },
+                                                          "geometry":  {
+                                                                           "type":  "Polygon",
+                                                                           "coordinates":  [
+                                                                                               [
+                                                                                                   [
+                                                                                                       13.43,
+                                                                                                       59.34
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.43,
+                                                                                                       59.34
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.43,
+                                                                                                       59.34
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.43,
+                                                                                                       59.34
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.43,
+                                                                                                       59.34
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.43,
+                                                                                                       59.34
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.43,
+                                                                                                       59.34
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.43,
+                                                                                                       59.34
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.43,
+                                                                                                       59.35
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.43,
+                                                                                                       59.35
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.43,
+                                                                                                       59.35
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.43,
+                                                                                                       59.35
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.43,
+                                                                                                       59.34
+                                                                                                   ]
+                                                                                               ]
+                                                                                           ]
+                                                                       }
+                                                      },
+                                                      {
+                                                          "type":  "Feature",
+                                                          "properties":  {
+                                                                             "type":  "residential",
+                                                                             "area":  1193.14,
+                                                                             "url":  "https://karlstad.se/bygga-bo-och-leva-hallbart/bostader-och-boendemiljo/villatomter"
+                                                                         },
+                                                          "geometry":  {
+                                                                           "type":  "Polygon",
+                                                                           "coordinates":  [
+                                                                                               [
+                                                                                                   [
+                                                                                                       13.43,
+                                                                                                       59.35
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.43,
+                                                                                                       59.35
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.43,
+                                                                                                       59.35
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.43,
+                                                                                                       59.34
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.43,
+                                                                                                       59.35
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.43,
+                                                                                                       59.35
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.43,
+                                                                                                       59.35
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.43,
+                                                                                                       59.35
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.43,
+                                                                                                       59.35
+                                                                                                   ]
+                                                                                               ]
+                                                                                           ]
+                                                                       }
+                                                      },
+                                                      {
+                                                          "type":  "Feature",
+                                                          "properties":  {
+                                                                             "type":  "residential",
+                                                                             "area":  1005.7,
+                                                                             "url":  "https://karlstad.se/bygga-bo-och-leva-hallbart/bostader-och-boendemiljo/villatomter"
+                                                                         },
+                                                          "geometry":  {
+                                                                           "type":  "Polygon",
+                                                                           "coordinates":  [
+                                                                                               [
+                                                                                                   [
+                                                                                                       13.44,
+                                                                                                       59.35
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.43,
+                                                                                                       59.35
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.43,
+                                                                                                       59.35
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.43,
+                                                                                                       59.35
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.43,
+                                                                                                       59.35
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.44,
+                                                                                                       59.35
+                                                                                                   ]
+                                                                                               ]
+                                                                                           ]
+                                                                       }
+                                                      },
+                                                      {
+                                                          "type":  "Feature",
+                                                          "properties":  {
+                                                                             "type":  "residential",
+                                                                             "area":  1023.75,
+                                                                             "url":  "https://karlstad.se/bygga-bo-och-leva-hallbart/bostader-och-boendemiljo/villatomter"
+                                                                         },
+                                                          "geometry":  {
+                                                                           "type":  "Polygon",
+                                                                           "coordinates":  [
+                                                                                               [
+                                                                                                   [
+                                                                                                       13.44,
+                                                                                                       59.35
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.44,
+                                                                                                       59.35
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.44,
+                                                                                                       59.35
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.44,
+                                                                                                       59.35
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.44,
+                                                                                                       59.35
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.44,
+                                                                                                       59.35
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.44,
+                                                                                                       59.35
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.44,
+                                                                                                       59.35
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.44,
+                                                                                                       59.35
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.44,
+                                                                                                       59.35
+                                                                                                   ]
+                                                                                               ]
+                                                                                           ]
+                                                                       }
+                                                      },
+                                                      {
+                                                          "type":  "Feature",
+                                                          "properties":  {
+                                                                             "type":  "residential",
+                                                                             "area":  1025.28,
+                                                                             "url":  "https://karlstad.se/bygga-bo-och-leva-hallbart/bostader-och-boendemiljo/villatomter"
+                                                                         },
+                                                          "geometry":  {
+                                                                           "type":  "Polygon",
+                                                                           "coordinates":  [
+                                                                                               [
+                                                                                                   [
+                                                                                                       13.44,
+                                                                                                       59.35
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.44,
+                                                                                                       59.35
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.44,
+                                                                                                       59.35
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.44,
+                                                                                                       59.35
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.44,
+                                                                                                       59.35
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.44,
+                                                                                                       59.35
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.44,
+                                                                                                       59.35
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.44,
+                                                                                                       59.35
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.44,
+                                                                                                       59.35
+                                                                                                   ]
+                                                                                               ]
+                                                                                           ]
+                                                                       }
+                                                      },
+                                                      {
+                                                          "type":  "Feature",
+                                                          "properties":  {
+                                                                             "type":  "residential",
+                                                                             "area":  1019.26,
+                                                                             "url":  "https://karlstad.se/bygga-bo-och-leva-hallbart/bostader-och-boendemiljo/villatomter"
+                                                                         },
+                                                          "geometry":  {
+                                                                           "type":  "Polygon",
+                                                                           "coordinates":  [
+                                                                                               [
+                                                                                                   [
+                                                                                                       13.44,
+                                                                                                       59.35
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.44,
+                                                                                                       59.35
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.44,
+                                                                                                       59.35
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.44,
+                                                                                                       59.35
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.44,
+                                                                                                       59.35
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.44,
+                                                                                                       59.35
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.44,
+                                                                                                       59.35
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.44,
+                                                                                                       59.35
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.44,
+                                                                                                       59.35
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.44,
+                                                                                                       59.35
+                                                                                                   ]
+                                                                                               ]
+                                                                                           ]
+                                                                       }
+                                                      },
+                                                      {
+                                                          "type":  "Feature",
+                                                          "properties":  {
+                                                                             "type":  "residential",
+                                                                             "area":  1001.65,
+                                                                             "url":  "https://karlstad.se/bygga-bo-och-leva-hallbart/bostader-och-boendemiljo/villatomter"
+                                                                         },
+                                                          "geometry":  {
+                                                                           "type":  "Polygon",
+                                                                           "coordinates":  [
+                                                                                               [
+                                                                                                   [
+                                                                                                       13.43,
+                                                                                                       59.35
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.44,
+                                                                                                       59.35
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.44,
+                                                                                                       59.35
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.44,
+                                                                                                       59.35
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.44,
+                                                                                                       59.35
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.44,
+                                                                                                       59.35
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.43,
+                                                                                                       59.35
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.43,
+                                                                                                       59.35
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.43,
+                                                                                                       59.35
+                                                                                                   ]
+                                                                                               ]
+                                                                                           ]
+                                                                       }
+                                                      },
+                                                      {
+                                                          "type":  "Feature",
+                                                          "properties":  {
+                                                                             "type":  "residential",
+                                                                             "area":  999.95,
+                                                                             "url":  "https://karlstad.se/bygga-bo-och-leva-hallbart/bostader-och-boendemiljo/villatomter"
+                                                                         },
+                                                          "geometry":  {
+                                                                           "type":  "Polygon",
+                                                                           "coordinates":  [
+                                                                                               [
+                                                                                                   [
+                                                                                                       13.43,
+                                                                                                       59.35
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.43,
+                                                                                                       59.35
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.43,
+                                                                                                       59.35
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.43,
+                                                                                                       59.35
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.43,
+                                                                                                       59.35
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.43,
+                                                                                                       59.35
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.43,
+                                                                                                       59.35
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.43,
+                                                                                                       59.35
+                                                                                                   ]
+                                                                                               ]
+                                                                                           ]
+                                                                       }
+                                                      },
+                                                      {
+                                                          "type":  "Feature",
+                                                          "properties":  {
+                                                                             "type":  "residential",
+                                                                             "area":  1027.04,
+                                                                             "url":  "https://karlstad.se/bygga-bo-och-leva-hallbart/bostader-och-boendemiljo/villatomter"
+                                                                         },
+                                                          "geometry":  {
+                                                                           "type":  "Polygon",
+                                                                           "coordinates":  [
+                                                                                               [
+                                                                                                   [
+                                                                                                       13.44,
+                                                                                                       59.35
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.44,
+                                                                                                       59.35
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.44,
+                                                                                                       59.35
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.44,
+                                                                                                       59.35
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.44,
+                                                                                                       59.35
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.44,
+                                                                                                       59.35
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.44,
+                                                                                                       59.35
+                                                                                                   ]
+                                                                                               ]
+                                                                                           ]
+                                                                       }
+                                                      },
+                                                      {
+                                                          "type":  "Feature",
+                                                          "properties":  {
+                                                                             "type":  "residential",
+                                                                             "area":  1001.75,
+                                                                             "url":  "https://karlstad.se/bygga-bo-och-leva-hallbart/bostader-och-boendemiljo/villatomter"
+                                                                         },
+                                                          "geometry":  {
+                                                                           "type":  "Polygon",
+                                                                           "coordinates":  [
+                                                                                               [
+                                                                                                   [
+                                                                                                       13.44,
+                                                                                                       59.35
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.44,
+                                                                                                       59.35
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.44,
+                                                                                                       59.35
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.44,
+                                                                                                       59.35
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.44,
+                                                                                                       59.35
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.44,
+                                                                                                       59.35
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.44,
+                                                                                                       59.35
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.44,
+                                                                                                       59.35
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.44,
+                                                                                                       59.35
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.44,
+                                                                                                       59.35
+                                                                                                   ]
+                                                                                               ]
+                                                                                           ]
+                                                                       }
+                                                      },
+                                                      {
+                                                          "type":  "Feature",
+                                                          "properties":  {
+                                                                             "type":  "residential",
+                                                                             "area":  1200.46,
+                                                                             "url":  "https://karlstad.se/bygga-bo-och-leva-hallbart/bostader-och-boendemiljo/villatomter"
+                                                                         },
+                                                          "geometry":  {
+                                                                           "type":  "Polygon",
+                                                                           "coordinates":  [
+                                                                                               [
+                                                                                                   [
+                                                                                                       13.43,
+                                                                                                       59.35
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.43,
+                                                                                                       59.35
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.43,
+                                                                                                       59.35
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.43,
+                                                                                                       59.35
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.43,
+                                                                                                       59.35
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.43,
+                                                                                                       59.35
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.43,
+                                                                                                       59.35
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.43,
+                                                                                                       59.35
+                                                                                                   ]
+                                                                                               ]
+                                                                                           ]
+                                                                       }
+                                                      },
+                                                      {
+                                                          "type":  "Feature",
+                                                          "properties":  {
+                                                                             "type":  "residential",
+                                                                             "area":  948.08,
+                                                                             "url":  "https://karlstad.se/bygga-bo-och-leva-hallbart/bostader-och-boendemiljo/villatomter"
+                                                                         },
+                                                          "geometry":  {
+                                                                           "type":  "Polygon",
+                                                                           "coordinates":  [
+                                                                                               [
+                                                                                                   [
+                                                                                                       13.44,
+                                                                                                       59.37
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.45,
+                                                                                                       59.37
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.45,
+                                                                                                       59.37
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.45,
+                                                                                                       59.37
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.44,
+                                                                                                       59.37
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.44,
+                                                                                                       59.37
+                                                                                                   ]
+                                                                                               ]
+                                                                                           ]
+                                                                       }
+                                                      },
+                                                      {
+                                                          "type":  "Feature",
+                                                          "properties":  {
+                                                                             "type":  "residential",
+                                                                             "area":  984.48,
+                                                                             "url":  "https://karlstad.se/bygga-bo-och-leva-hallbart/bostader-och-boendemiljo/villatomter"
+                                                                         },
+                                                          "geometry":  {
+                                                                           "type":  "Polygon",
+                                                                           "coordinates":  [
+                                                                                               [
+                                                                                                   [
+                                                                                                       13.45,
+                                                                                                       59.37
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.45,
+                                                                                                       59.37
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.45,
+                                                                                                       59.37
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.45,
+                                                                                                       59.37
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.45,
+                                                                                                       59.37
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.45,
+                                                                                                       59.37
+                                                                                                   ],
+                                                                                                   [
+                                                                                                       13.45,
+                                                                                                       59.37
+                                                                                                   ]
+                                                                                               ]
+                                                                                           ]
+                                                                       }
+                                                      }
+                                                  ]
+                                 }
+                 }
+}
